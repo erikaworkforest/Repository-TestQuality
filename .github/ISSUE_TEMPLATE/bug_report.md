@@ -13,10 +13,10 @@ assignees: ''
 
 **Issue :**
 
-**Steps to Reproduce**
+**Steps to Reproduce:**
 
-**Actual Results**
+**Actual Results:**
 
-**Expected Results**
+**Expected Results:**
 
-**Screenshots**
+**Screenshots:**
